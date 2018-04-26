@@ -1,0 +1,7 @@
+for(int a=1;a<=2;a++)
+{
+	int c=4 + 'a';
+	char d = 4;
+	for(int b=1;b<=2;b++)
+		c++; 
+}
